@@ -2,9 +2,8 @@ subject: 个人简介
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: 
+  - title: 肇庆学院·数据科学与大数据技术
     description:
-      - 肇庆学院·数据科学与大数据技术
       - 工作年限：Java 后端开发经验
       - 求职意向：Java后端开发、全栈侧重后端
     date: 2018.09 - 2022.06
