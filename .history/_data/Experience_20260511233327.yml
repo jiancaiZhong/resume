@@ -24,10 +24,9 @@ contents:
       - 参与项目测试环境、生产环境部署，使用Git进行代码版本管理与分支协作
       - 负责业务系统的定时任务开发、数据统计、报表导出等业务功能
     date: 2022.06 - 2024.04
-  - title: 广州市华观信息科技有限公司
-    role: JAVA 研发实习
+  - title: Pacebook
+    role: Software Engineer Intern
     description: 
-      - 参与业务需求对接、sql 性能优化，配合前端完成接口联调与问题修复
-      - 负责需求文档、接口文档、开发设计文档编写，保障团队协作标准化
-      - 负责业务系统的数据导入、导出模块封装、以及数据分析
-    date: 2021.08 - 2022.06
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Jul. 2013 - Sep. 2013

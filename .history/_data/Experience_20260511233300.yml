@@ -21,13 +21,10 @@ contents:
       - 负责各类后台管理系统、业务系统后端接口开发，完成需求功能迭代与日常维护
       - 配合前端进行接口联调、参数校验、数据格式封装，及时修复线上及测试Bug
       - 运用Redis实现登录缓存、业务数据缓存，提升接口响应速度
-      - 参与项目测试环境、生产环境部署，使用Git进行代码版本管理与分支协作
-      - 负责业务系统的定时任务开发、数据统计、报表导出等业务功能
-    date: 2022.06 - 2024.04
-  - title: 广州市华观信息科技有限公司
-    role: JAVA 研发实习
+    date: Apr. 2016 - Dec. 2018
+  - title: Pacebook
+    role: Software Engineer Intern
     description: 
-      - 参与业务需求对接、sql 性能优化，配合前端完成接口联调与问题修复
-      - 负责需求文档、接口文档、开发设计文档编写，保障团队协作标准化
-      - 负责业务系统的数据导入、导出模块封装、以及数据分析
-    date: 2021.08 - 2022.06
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Jul. 2013 - Sep. 2013
