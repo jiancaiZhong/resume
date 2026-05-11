@@ -9,6 +9,8 @@ job: "JAVA 研发工程师"
 # address: 广东·广州
 # email: jiancai.zhong@email.cn
 
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
 baseurl: /resume
 
 exclude:
