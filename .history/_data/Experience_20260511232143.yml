@@ -1,0 +1,22 @@
+subject: 工作经验
+listing-order: 3
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: 中国人保
+    role: JAVA 研发工程师
+    description: 负责影像管理中台微服务后端接口开发，完成影像文件业务需求迭代、功能开发与线上日常维护
+      - Led development of a new chatbot software utilizing large language model
+      - Co-designer of '*Kopilot*' and '*Gemmini*'
+    date: 2024.05 - 至今
+  - title: Amazone
+    role: Senior Software Engineer
+    description: 
+      - Built a Java microservice, database schema to manage customer accounts
+      - Enhanced internal pipelines to query real-time data from client devices
+    date: Apr. 2016 - Dec. 2018
+  - title: Pacebook
+    role: Software Engineer Intern
+    description: 
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Jul. 2013 - Sep. 2013
