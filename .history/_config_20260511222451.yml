@@ -1,6 +1,6 @@
-title: 钟健材
+title: Title of your CV site
 profile_img: /assets/img/zjc.jpg
-icon_img: /assets/img/favicon.ico
+icon_img: /assets/img/icon.webp
 
 name: "钟健材"
 job: "JAVA 研发工程师"
@@ -8,6 +8,13 @@ job: "JAVA 研发工程师"
 phone_number: 155 0753 0622
 address: 广东·广州
 email: jiancai.zhong@email.cn
+linkedin_username: linkedin
+github_username: github
+instagram_username: instagram
+twitter_username: twitter
+facebook_username: facebook
+youtube_username: youtube
+blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
